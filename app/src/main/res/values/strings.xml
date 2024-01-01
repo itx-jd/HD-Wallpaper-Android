@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Best HD Wallpapers</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Category</string>
+    <string name="title_notifications">About</string>
+    <string name="version">1.0.0</string>
+    <string name="update">Febuary 2021</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    Test ID-->
+
+<!--    <string name="Admob_AppID">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="Admob_Banner">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="Admob_Interstial">ca-app-pub-3940256099942544/1033173712</string>-->
+
+<!--    Original ID-->
+
+    <string name="Admob_AppID">ca-app-pub-1791748645723874~3164458424</string>
+    <string name="Admob_Banner">ca-app-pub-1791748645723874/5063949170</string>
+    <string name="Admob_Interstial">ca-app-pub-1791748645723874/4872377481</string>
+
+    <string name="pixels_api_key">52X9SSvQYnU6235zAuzUuo0AtZKDoQ7L5tw20TOSqv4pS7yXOAWfDsOx</string>
+
+
+</resources>
